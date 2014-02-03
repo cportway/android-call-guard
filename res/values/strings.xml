@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Call Guard - Cheek Hangups and Mute Blocker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_turn_off_screen">TurnOffScreen</string>
+    <string name="annouce_general_enable">Enabling Call Guard</string>
+    <string name="annouce_general_disable">Disabling Call Guard</string>
+    <string name="annouce_device_admin_enabled">Enabled Screen Guard In-Call Lock</string>
+    <string name="warn_device_admin_disabled">Device Admin is not enabled. Please start Keep Screen Off from Home or the App Drawer and enable device admin so that the screen can be locked during calls.</string>
+    <string name="warn_device_admin_canceled">Lock during phone call canceled since you did not enable admin access. Apps are not able to lock without admin access.</string>
+    <string name="device_admin_reason">App only needs screen locking Device Admin rights. See the list below, no other control or privileges are granted by this.</string>
+
+
+</resources>
